@@ -1,4 +1,5 @@
 # Proje 1
+
 ### [22, 27, 16, 2, 18, 6] dizisinin Insertion Sort'a göre aşamaları
 
 1. aşama [*22, 27, 16, 2, 18, 6] --> 22'nin solunda bir sayı olmadığı için sıralanmış olarak algılar.
