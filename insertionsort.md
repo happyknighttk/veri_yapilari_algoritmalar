@@ -10,14 +10,22 @@
 
 Sonuç olarak aşağıdaki şekilde sıralanmıştır.
 - [2, 6, 16, 18, 22, 27]
+
 ---
+
 ### Big-O gösterimi
+
 Average ve worst-case Big-O gösterimi --> O(n^2).
+
 ---
+
 ### Time Complexity: Dizi sıralandıktan sonra 18 sayısı
+
 - [2, 6, 16, 18, 22, 27]
 Average case: Aradığımız sayının ortada olması
+
 ---
+
 ### [7,3,5,8,2,9,4,15,6] dizisinin Selection Sort'a göre ilk 4 adımını
 
 1. adım [*2, 3, 5, 8, 7, 9, 4, 15, 6] --> 2, 7'den küçük olduğu için yer değiştirir. 
