@@ -27,3 +27,5 @@ Average case: Aradığımız sayının ortada olması
 
 4 adımda aşağıdaki şekilde sıralanmıştır.
 - [2, 3, 4, 5, 7, 9, 8, 15, 6]
+
+![image](https://github.com/happyknighttk/veri_yapilari_algoritmalar/assets/111133716/dc1da198-68ed-4cbc-9dcb-9a5cd7df81a7)
